@@ -5,7 +5,6 @@
 
 ### I ❤️ Clean Coding
 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff) 
@@ -30,9 +29,10 @@
 ![Unity](https://img.shields.io/badge/Unity-056676?style=flat&logo=Unity&logoColor=fff) 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecagri&show_icons=true&locale=en&layout=compact" alt="emrecagri" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecagri&show_icons=true&locale=en" alt="emrecagri" /></p>
+<img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecagri&show_icons=true&locale=en&layout=compact" alt="emrecagri" />  &nbsp;  <img height="200"  width="420" src="https://github-readme-stats.vercel.app/api?username=emrecagri&show_icons=true&locale=en" alt="emrecagri" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecagri" alt="emrecagri" /></a> </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecagri" alt="emrecagri" /></a> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/emrecagri?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/emrecagri?style=social) 
 
