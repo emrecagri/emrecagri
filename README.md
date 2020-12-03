@@ -7,7 +7,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat&logo=WordPress&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
 ![Node.JS](https://img.shields.io/badge/Node.JS-E34F26?style=flat&logo=Node.JS&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-yellow?style=flat&logo=Vue.js&logoColor=fff)
