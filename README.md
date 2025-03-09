@@ -15,11 +15,10 @@
 ![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=PHP&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=fff)
 ![React](https://img.shields.io/badge/React-056676?style=flat&logo=react) 
-<br>
 ![AWS](https://img.shields.io/badge/AWS-gray?style=flat&logo=amazon&logoColor=fff)
+<br>
 ![NGINX](https://img.shields.io/badge/NGINX-green?style=flat&logo=NGINX&logoColor=fff)
 ![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat&logo=xampp&logoColor=fff) 
-<br>
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=fff) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-DD0031?style=flat&logo=Kotlin&logoColor=fff)
 ![CSharp](https://img.shields.io/badge/C%23-C%20Sharp-green) 
