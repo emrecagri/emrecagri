@@ -16,7 +16,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=fff)
 ![React](https://img.shields.io/badge/React-056676?style=flat&logo=react) 
 ![AWS](https://img.shields.io/badge/AWS-gray?style=flat&logo=amazon&logoColor=fff)
-<br>
 ![NGINX](https://img.shields.io/badge/NGINX-green?style=flat&logo=NGINX&logoColor=fff)
 ![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat&logo=xampp&logoColor=fff) 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=fff) 
