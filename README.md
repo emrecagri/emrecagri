@@ -31,6 +31,4 @@
 <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecagri&show_icons=true&locale=en&layout=compact" alt="emrecagri" />  &nbsp;  <img height="200"  width="420" src="https://github-readme-stats.vercel.app/api?username=emrecagri&show_icons=true&locale=en" alt="emrecagri" />
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecagri" alt="emrecagri" /></a> </p>
-
 ![GitHub followers](https://img.shields.io/github/followers/emrecagri?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/emrecagri?style=social)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=emrecagri)
