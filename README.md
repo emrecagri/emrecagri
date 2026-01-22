@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Emre Çağrı</h1>
 <p align="left">👨‍💻 I'm here to learn new things and record everything I've learned.<br>📝 Github is my code log.</p>
 
