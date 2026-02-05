@@ -27,7 +27,5 @@
 ![Unity](https://img.shields.io/badge/Unity-056676?style=flat&logo=Unity&logoColor=fff) 
 
 
-<img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecagri&show_icons=true&locale=en&layout=compact" alt="emrecagri" />  &nbsp;  <img height="200"  width="420" src="https://github-readme-stats.vercel.app/api?username=emrecagri&show_icons=true&locale=en" alt="emrecagri" />
-
 
 ![GitHub followers](https://img.shields.io/github/followers/emrecagri?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/emrecagri?style=social)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=emrecagri)
